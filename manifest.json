@@ -1,0 +1,15 @@
+{
+    "manifest_version":3,
+    "name":"Color Picker",
+    "description":"this tool is created by micah sobokie but, the company of smicodes.",
+    "version":"1.0",
+    "action":{
+        "default_popup":"index.html"
+    },
+    "icons":{
+        "16":"color.png",
+        "32":"color.png",
+        "48":"color.png",
+        "128":"color.png"
+    }
+}
